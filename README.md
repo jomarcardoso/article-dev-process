@@ -39,4 +39,6 @@ Esse problema geralmente é um sinal de que a equipe tende a não revisitar as e
 
 Outro temor de uma entrega de menor qualidade, longe do perfeito, é que aquilo não será escalável, o que é uma verdade se a escalabilidade não for uma preocupação. Em primeiro momento se precisa entender se algo depende daquela entrega ou se ela é um ponto final de algo. Existem tarefas que começam e acabam em si mesmas, por exemplo uma _landing page_ promocional que é única, nada depende dela, ela não será melhorada no futuro, então não haveria motivo de segurar sua entrega por preocupações de qualidade referente a sua escalabilidade. Já uma entrega de um template de e-mail que com o tempo evolui, ganha novas derivações, este deve-se ter uma preocupação de ser reutilizável, feito de uma forma genérica e provavelmente quebrado em componentes menores.
 
-Um bom
+Um bom primeiro passo para garantir que a entrega possa escalar, é a definição do que será dependende em entregas futuras. Definição de nomenclatura
+
+Outro ponto importante para a escalabilidade é seguir o [Princípio da Responsabilidade Única](#) para que a manutenção daquela entrega não seja onerosa, por exigir que quem a faça tenha que mexer em várias partes do projeto para conseguir fazer uma alteração.
