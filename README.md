@@ -31,4 +31,12 @@ Depois de dar nome as coisas a segunda pior tarefa é conseguir quebrar tarefas 
 
 - O que é o mínimo entregável para alguém se beneficiar?
 
-A partir do momento que sua entrega já tem valor para alguém, não precisa estender mais aquela tarefa, pois ela pode ser entregue, validada e posteriormente continuada. Um exemplo claro disso é na resolução de um problema,
+A partir do momento que sua entrega já tem valor para alguém, não precisa estender mais aquela tarefa, pois ela pode ser entregue, validada e posteriormente continuada. Um exemplo claro disso é na resolução de um problema, a solução não precisa no primeiro momento ser perfeita, precisa resolver a dor de quem está esperando. Isso de solução perfeita leva a outro ponto.
+
+### 2.2 Preciosismo na primeira entrega
+
+Esse problema geralmente é um sinal de que a equipe tende a não revisitar as entregas anteriores, ou seja, se foi mal feito fica mal feito para sempre, aí algum dia simplesmente é decido que aquilo vai fora e será feito algo melhor no lugar. Tal forma de agir não é progressiva e escalável, pois de tempos em tempos as _features_ serão refeitas sem que muitas vezes carreguem consigo o histórico de problemas resolvidos, onde a nova versão seja um progresso estrutural, porém um retrocesso na quanto a _bugs_ e pessoas beneficiadas, porque ao refazer nem sempre consegue-se separar o que era útil do que estava obsoleto.
+
+Outro temor de uma entrega de menor qualidade, longe do perfeito, é que aquilo não será escalável, o que é uma verdade se a escalabilidade não for uma preocupação. Em primeiro momento se precisa entender se algo depende daquela entrega ou se ela é um ponto final de algo. Existem tarefas que começam e acabam em si mesmas, por exemplo uma _landing page_ promocional que é única, nada depende dela, ela não será melhorada no futuro, então não haveria motivo de segurar sua entrega por preocupações de qualidade referente a sua escalabilidade. Já uma entrega de um template de e-mail que com o tempo evolui, ganha novas derivações, este deve-se ter uma preocupação de ser reutilizável, feito de uma forma genérica e provavelmente quebrado em componentes menores.
+
+Um bom
