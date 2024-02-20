@@ -6,6 +6,10 @@ Primeiramente:
 
 Cada projeto possui suas peculiariedades e problemas para resolver, então esse artigo se propõe a ser apenas uma base e ideias para problemas comuns de projetos de desenvolvimento de software.
 
+## Introdução 
+
+O Ágil muitas vezes é gerido por pessoas que nunca tiverem essa matéria em sua faculdade ou que tiveram o interesse de aprender o que o manifesto propõe e o que as metodologias resolvem. O Ágil então passa a ser um monte de cerimônias onerosas e desgastantes, quando deveria ser uma ferramenta que conduza os projetos de forma que esteja alinhado com as partes interessadas e possibilitando a mudança direção se for necessário.
+
 ## 1. Problemas comuns
 
 - Entregas demoram mais de uma sprint
@@ -51,4 +55,5 @@ Outro ponto importante para a escalabilidade é seguir o [Princípio da Responsa
 
 ### 2.3 Processos
 
+O refinamento.
 
